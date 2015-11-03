@@ -1,0 +1,21 @@
+{
+  "name": "sdc-clients-x",
+  "version": "0.0.1",
+  "description": "Cross-datacenter joyent/node-sdc-clients.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chudley/node-sdc-clients-x"
+  },
+  "author": "Richard Bradley <aguycalledrichard@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chudley/node-sdc-clients-x/issues"
+  },
+  "homepage": "https://github.com/chudley/node-sdc-clients-x",
+  "dependencies": {
+    "sdc-clients": "git://github.com/joyent/node-sdc-clients",
+    "vasync": "^1.6.3",
+    "wf-client": "git://github.com/joyent/sdc-wf-client"
+  }
+}
