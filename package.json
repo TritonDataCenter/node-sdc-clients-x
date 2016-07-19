@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/chudley/node-sdc-clients-x",
   "dependencies": {
-    "sdc-clients": "git://github.com/joyent/node-sdc-clients",
+    "sdc-clients": "^9.4.0",
     "vasync": "^1.6.3",
     "wf-client": "git://github.com/joyent/sdc-wf-client"
   }
