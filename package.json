@@ -17,6 +17,7 @@
     "restify-clients": "^1.3.0",
     "sdc-clients": "^10.0.2",
     "vasync": "^1.6.3",
-    "wf-client": "git://github.com/joyent/sdc-wf-client"
+    "wf-client": "git://github.com/joyent/sdc-wf-client",
+    "ufds": "~1.1.2"
   }
 }
